@@ -124,6 +124,10 @@ ol {
   padding-left: .25rem;
 }
 
+.samples {
+  margin-top: 1rem;
+}
+
 @media (width >= 768px) {
   main {
     justify-content: space-between;
